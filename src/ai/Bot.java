@@ -29,7 +29,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Bot1 {
+public class Bot {
 	static void displayPathtoPrincess(int n, String [] grid){
 		String [][] mat;
 		mat= new String[n][n];
